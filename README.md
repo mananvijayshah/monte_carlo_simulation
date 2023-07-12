@@ -11,6 +11,6 @@ Analyzing_all_growthrate.m - this code is used to analyze the growth of the aggl
 
 # How to run the code
 
-To start the simulation just run the monte_Carlo_milkpowder.m file in Matlab.
+To start the simulation, just run the Monte Carlo_milkpowder.m file in Matlab. 
 
-During the simulation the relative mean agglomerate diameter are shown in the command window and simulation will finish when the time screens reach at desired value, once it's finished the results can be analyzed by giving the complete name and date, for example, .'CVMC_Real_SMP_final-11-Jul-2023-reportA-' to the Analyzing_all_growthrate.m program
+During the simulation, the relative mean agglomerate diameter is shown in the command window, and the simulation will finish when the time screens reach the desired value. Once it's finished, the results can be analyzed by giving the complete name and date. The naming convention of the file is CVMC_Real_SMP_final-11-Jul-2023-reportA-, which can be accessed by the Analyzing_All_GrowthRate.m program.
