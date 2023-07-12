@@ -1,5 +1,5 @@
 # monte_carlo_simulation
-MATLAB code for modelling of a agglomeration process in spray fluidized bed.
+MATLAB code for modelling of a milk powder agglomeration process in spray fluidized bed.
 
 # Description of the code files
 
